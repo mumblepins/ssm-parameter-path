@@ -5,8 +5,8 @@
 
 
 
-[codecov-shield]: https://img.shields.io/codecov/c/github/mumblepins/python-template-repo
-[codecov-url]: https://app.codecov.io/gh/mumblepins/python-template-repo
+[codecov-shield]: https://img.shields.io/codecov/c/github/mumblepins/ssm-parameter-path
+[codecov-url]: https://app.codecov.io/gh/mumblepins/ssm-parameter-path
 
-[checks-shield]: https://img.shields.io/github/workflow/status/mumblepins/python-template-repo/Python%20Publish?style=flat-square
-[checks-url]: https://github.com/mumblepins/python-template-repo/actions/workflows/python-publish.yml
+[checks-shield]: https://img.shields.io/github/workflow/status/mumblepins/ssm-parameter-path/Python%20Publish?style=flat-square
+[checks-url]: https://github.com/mumblepins/ssm-parameter-path/actions/workflows/python-publish.yml

@@ -1,14 +1,14 @@
 # region Poetry
 [tool.poetry]
-name = "python-template-repo"
+name = "ssm-parameter-path"
 version = "0.0.1"
 description = "Description"
 authors = ["Daniel Sullivan <mumblepins@users.noreply.github.com>"]
 license = "LGPL-3.0-or-later"
-repository = "https://github.com/mumblepins/python-template-repo/"
-documentation = "https://mumblepins.github.io/python-template-repo/"
+repository = "https://github.com/mumblepins/ssm-parameter-path/"
+documentation = "https://mumblepins.github.io/ssm-parameter-path/"
 readme = "README.md"
-packages = [{ include = "python_template_repo", from="src" }]
+packages = [{ include = "ssm_parameter_path", from="src" }]
 
 [tool.poetry.dependencies]
 python = "^3.8"
@@ -85,7 +85,7 @@ skip = "env"
 include_trailing_comma = true
 combine_as_imports = true
 force_grid_wrap = 0
-known_first_party = ["python_template_repo"]
+known_first_party = ["ssm_parameter_path"]
 # endregion
 
 # region Black
