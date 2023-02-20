@@ -16,7 +16,7 @@ python = "^3.8"
 
 [tool.poetry.group.dev.dependencies]
 # region pre-commit hooks and linting
-pylint = "^2.13.0"
+pylint = "^2.16.2"
 pytest = "^7.1.1"
 coverage = { version = "^6.3.2", extras = ['toml'] }
 pre-commit = "^2.15.0"
