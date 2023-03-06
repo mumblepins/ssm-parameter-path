@@ -19,7 +19,7 @@ python = "^3.8"
 pylint = "^2.13.0"
 pytest = "^7.1.1"
 coverage = { version = "^6.3.2", extras = ['toml'] }
-pre-commit = "^2.15.0"
+pre-commit = "^3.1.1"
 Sphinx = "^4.4"
 sphinx-rtd-theme = "^1.0"
 pytest-cov = "^3.0.0"
